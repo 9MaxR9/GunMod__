@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gm",
+  "name": "Gun Mod",
+  "description": "Guns",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Maxime Ruys - Programetr"],
+  "credits": "The Forge and FML guys, for making forge and fml",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
